@@ -1,0 +1,25 @@
+
+header{text-align: center;
+    color: red;
+}
+main{
+    background-image: url("free-background-4.jpg");
+}
+.aligncenter {
+    text-align: center;
+    
+}
+.black-border{
+    border: 5px solid black;
+    color: red;}
+   
+#green-background {
+    background-color: gray;
+    border: 4px solid black;}
+   
+
+.a {
+    color: red;
+}
+
+
